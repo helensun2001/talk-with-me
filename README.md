@@ -1,6 +1,9 @@
-# 🌏 CultureBridge MVP
+# 🌏 Talk with Me — Learn Languages Through Conversation
 
-**Learn languages by chatting about your passions** — K-pop, anime, football, and more.
+> Chat with AI friends about what you love. Pick up their language naturally along the way.
+> Try here: https://talk-with-me-716021262248.southamerica-east1.run.app/
+
+Talk with Me is a language-learning app powered by **Google Gemini**. Pick a topic you're passionate about — K-Pop, football, anime, food — and get matched with AI chat friends who are native speakers of your target language. They chat with you in a natural mix of your native language and the one you're learning, building vocabulary and pronunciation through real conversation.
 
 ## Quick Start (5 minutes)
 

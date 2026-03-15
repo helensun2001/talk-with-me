@@ -16,14 +16,13 @@
 4. In Supabase dashboard, go to **Database → Realtime** and enable realtime for the `messages` table
 
 ### 3. Configure Environment
-```bash
-cp .env.example .env
+
 ```
 Edit `.env` with your keys:
 ```
-VITE_SUPABASE_URL=https://xxxx.supabase.co
-VITE_SUPABASE_ANON_KEY=eyJhbG...
-VITE_GEMINI_API_KEY=AIza...
+VITE_SUPABASE_URL=[please input your URL]
+VITE_SUPABASE_ANON_KEY=[please input your key]
+VITE_GEMINI_API_KEY=[please input your API]
 ```
 
 ### 4. Install & Run
@@ -63,22 +62,6 @@ Open http://localhost:3000
     └─────────────┘     └───────────────┘
 ```
 
-## Key Features (MVP)
-
-| Feature | Status |
-|---------|--------|
-| Welcome + language selection | ✅ |
-| Agent creation (2 normal + 1 star) | ✅ |
-| Chat with mixed language | ✅ |
-| Learning points with TTS/STT | ✅ |
-| Pronunciation check (50% gate) | ✅ |
-| Notebook for collected items | ✅ |
-| Agent cooldown (15 replies) | ✅ |
-| Unread message badges | ✅ |
-| Realtime message updates | ✅ |
-| Agent evolution system | 🔲 P2 |
-| Scheduled push messages | 🔲 P2 |
-| Internet search for topics | 🔲 P2 |
 
 ## Demo Recording Tips
 

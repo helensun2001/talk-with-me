@@ -16,7 +16,7 @@
 4. In Supabase dashboard, go to **Database → Realtime** and enable realtime for the `messages` table
 
 ### 3. Configure Environment
-
+```bash
 ```
 Edit `.env` with your keys:
 ```
